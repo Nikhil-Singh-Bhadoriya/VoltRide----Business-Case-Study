@@ -1,1 +1,2 @@
-Business Case Study  -- VoltRide
+
+## Business Case Study  -- VoltRide
