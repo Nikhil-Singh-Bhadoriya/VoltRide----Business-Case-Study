@@ -58,6 +58,3 @@ demand patterns, and optimization opportunities.
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
-
-Your Name
